@@ -1,7 +1,7 @@
 # codenation-data-science-recommendation-system
 O objetivo deste produto é fornecer um serviço automatizado que recomenda leads para um usuário dado sua atual lista de clientes (Portfólio).
 
-##Contextualização<br>
+## Contextualização<br>
 Algumas empresas gostariam de saber quem são as demais empresas em um determinado mercado (população) que tem maior probabilidade se tornarem seus próximos clientes. Ou seja, a sua solução deve encontrar no mercado quem são os leads mais aderentes dado as características dos clientes presentes no portfólio do usuário.
 
 Além disso, sua solução deve ser agnóstica ao usuário. Qualquer usuário com uma lista de clientes que queira explorar esse mercado pode extrair valor do serviço.
@@ -29,8 +29,13 @@ As bases de portfólio poderão ser utilizadas para testar a aderência da solu�
 
 Descrição de variáveis
 
-##Requisitos técnicos obrigatórios<br>
+## Requisitos técnicos obrigatórios<br>
 - Utilizar técnicas de data science e machine learning para desenvolver o projeto;
 - Apresentar o desenvolvimento e outputs do modelo em um Jupyter Notebook ou outra tecnologia de apresentação de Output de modelos de Machine Learning;
 - A análise deve considerar os seguintes pontos: análise exploratória dos dados, tratamento dos dados, avaliação de algoritmos, treinamento do modelo, avaliação de performance do modelo e visualização dos resultados;
 - Para a apresentação do projeto, o tempo entre o treinamento do modelo e o output deve ser menor que 20 min.
+
+## Helpers<br>
+Code:Nation CLI: [https://s3-us-west-1.amazonaws.com/codenation-cli/doc/manual.html](https://s3-us-west-1.amazonaws.com/codenation-cli/doc/manual.html)
+Screencast Code:Nation 2.0: [https://www.youtube.com/watch?v=fXsEYorSF_k&feature=youtu.be](https://www.youtube.com/watch?v=fXsEYorSF_k&feature=youtu.be)
+Como submeter os desafios da Code:Nation no Windows: [https://www.youtube.com/watch?v=0ojyYc0oWK0&feature=youtu.be](https://www.youtube.com/watch?v=0ojyYc0oWK0&feature=youtu.be)
