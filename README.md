@@ -36,6 +36,6 @@ Descrição de variáveis
 - Para a apresentação do projeto, o tempo entre o treinamento do modelo e o output deve ser menor que 20 min.
 
 ## Helpers<br>
-Code:Nation CLI: [https://s3-us-west-1.amazonaws.com/codenation-cli/doc/manual.html](https://s3-us-west-1.amazonaws.com/codenation-cli/doc/manual.html)
-Screencast Code:Nation 2.0: [https://www.youtube.com/watch?v=fXsEYorSF_k&feature=youtu.be](https://www.youtube.com/watch?v=fXsEYorSF_k&feature=youtu.be)
+Code:Nation CLI: [https://s3-us-west-1.amazonaws.com/codenation-cli/doc/manual.html](https://s3-us-west-1.amazonaws.com/codenation-cli/doc/manual.html)<br>
+Screencast Code:Nation 2.0: [https://www.youtube.com/watch?v=fXsEYorSF_k&feature=youtu.be](https://www.youtube.com/watch?v=fXsEYorSF_k&feature=youtu.be)<br>
 Como submeter os desafios da Code:Nation no Windows: [https://www.youtube.com/watch?v=0ojyYc0oWK0&feature=youtu.be](https://www.youtube.com/watch?v=0ojyYc0oWK0&feature=youtu.be)
